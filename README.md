@@ -1,4 +1,4 @@
 # hello-world
-GitHub 101
 
+GitHub 101
 First GitHub Hello World Guide
